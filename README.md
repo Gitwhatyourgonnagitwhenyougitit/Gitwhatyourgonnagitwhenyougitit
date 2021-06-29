@@ -11,3 +11,7 @@ You can click the Preview link to take a look at your changes.
    Content-Type: application/x-www-form-urlencoded
 
    Api-Version: 1.1
+
+
+POST /auth/token
+   Request body: clientId=CV2w3HScVTW2CNdWmuqfpoMR8KM8l9og&secret=khA1KgdG56xRlT
